@@ -1,0 +1,1 @@
+output "vapp" { value = local.vapp }
